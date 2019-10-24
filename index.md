@@ -6,7 +6,7 @@ Hallo zusammen!
 
 <a href="https://www.youtube.com/watch?v=hP0ubACBxV4
 " target="_blank"><img src="https://assets.t3n.sc/news/wp-content/uploads/2018/08/ifa-smartspeaker.jpg?auto=format&fit=crop&h=348&ixlib=php-2.3.0&w=620" 
-alt="IMAGE ALT TEXT HERE" width="240" height="180" border="10" /></a>
+alt="IMAGE ALT TEXT HERE" width="240" height="160" border="10" /></a>
 
 Spätestens seit der Veröffentlichung des Jahresabschlussberichtes Oktober 2018 befindet sich die Media-Saturn Holding in der Krise. Schon vorher senkten immer wieder neue nach unten korrigierte Gewinnprognosen den Aktienwert des Mutter-konzerns Ceconomy AG. Daraufhin verließen viele langjährige Manager das Un-ternehmen und neue wurden in hohen Positionen eingestellt. Allen voran ist nun Ferran Reverter Planet in der neubesetzten Position des CEOs für die Neuausrich-tung des Unternehmens zuständig. Der Spanier, welcher Pieter Haas ersetzt hat, hatte schon die Landesgesellschaft der Retail Group in Spanien wieder auf Kurs gebracht.
 Neue Strategien und Unternehmensstrukturen wurden schon entwickelt. Wann und wie schnell diese Erneuerungen ins Unternehmen implementiert werden können, ist ein laufender Prozess. CEO Ferran Reverter möchte unter anderem das ge-samte Unternehmen mehr zentralisieren und verschlanken – Stichwort Supply Chain Management – , das Sortiment reduzieren, die Themen „Digital Growth“ sowie „Services und Solutions“ stärker fokussieren, mehr Flächen in den Märkten sollen direkt an Hersteller weitervermietet werden – Concessions-Prinzip – und nicht zuletzt möchte man Kunden mit Kursen bzw. Events zum Beispiel über Pro-duktinnovationen in die Märkte locken.
