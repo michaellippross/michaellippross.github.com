@@ -1,5 +1,3 @@
-# Event-Marketing im Consumer Electronics am Beispiel von Saturn
-
 ![Smartphone](01.jpg)
 
 # Neue Strategien
