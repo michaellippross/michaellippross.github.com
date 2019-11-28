@@ -12,4 +12,4 @@ Photo by
 
 ## Copyrights
 
-[Home](/impressum)
+[Home](/)

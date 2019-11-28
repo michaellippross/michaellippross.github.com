@@ -56,4 +56,4 @@ Um jeweils die Vorteile von erlebnisorientierten und preispolitisch-orientierten
 
 Hier finden Sie die [Website Ulrich Anders](https://ulrich-anders.eu/).
 
-[Impressum](Impressum)
+[Impressum](/impressum)
