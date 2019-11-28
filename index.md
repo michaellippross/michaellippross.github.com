@@ -55,3 +55,5 @@ Marketingevents sind in der Regel erlebnisorientiert. Events bei Saturn oder in 
 Um jeweils die Vorteile von erlebnisorientierten und preispolitisch-orientierten Events zu erhalten, muss ein Mittelweg gefunden. Hier gilt es für ein Unternehmen wie Saturn innovativ zu sein. Events, wie zum Beispiel die Saturn Card Days, könnten ein solcher innovative Mittelweg sein.
 
 Hier finden Sie die [Website Ulrich Anders](https://ulrich-anders.eu/).
+
+[Impressum](Impressum)
