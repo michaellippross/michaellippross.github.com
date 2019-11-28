@@ -8,4 +8,6 @@ Hardefuststr. 1
 
 ## Credits
 
+Photo by
+
 ## Copyrights
