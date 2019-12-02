@@ -5,9 +5,13 @@
 Informationspflicht laut § 5 TMG.
 
 Michael Lipproß
+
 Cologne Business School
+
 Hardefuststr. 1,
+
 50699 Köln,
+
 Deutschland
 
 EU-Streitschlichtung

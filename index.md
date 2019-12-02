@@ -57,17 +57,28 @@ Um jeweils die Vorteile von erlebnisorientierten und preispolitisch-orientierten
 # Literaturverzeichnis
 
 Aktienkurs Ceconomy (2019) (2019), https://www.google.com/search?q=aktien-kurs+ceconomy&spell=1&sa=X&ved=0ahUKEwjvlM6kyt7iAhUTA2MBHYMn-CawQBQgrKAA&biw=1536&bih=754 (Zugriff: 2019-06-10)
+
 Ceconomy (2016): CECONOMY Geschichte (2016), https://www.ceco-nomy.de/de/unternehmen/geschichte/ (Zugriff: 2019-04-19)
+
 E-Commerce - Umsatz im stationären- vs. Online-Handel in Deutschland 2020 | Prognose (2014) (2014), https://de.statista.com/statistik/daten/stu-die/295622/umfrage/umsatzprognose-im-stationaeren-handel-vs-online-han-del-in-deutschland/ (Zugriff: 2019-06-10)
+
 Ferran Reverter Planet (2019): Brief von Ferran Reverter, Ingolstadt (Zugriff: 2019-06-10)
+
 HDE (2018): Zahlenspiegel 2018, in: Deutscher Handelsverband 2018, https://einzelhandel.de/index.php?option=com_attachments&task=down-load&id=9593 (Zugriff: 2019-06-10)
+
 Jäger, D. (2016): Grundwissen Eventmanagement, Konstanz/München, 2016
+
 Martin Mehringer (2018): MediaSaturn: Florian Gietl wird neuer CEO - manager magazin, https://www.manager-magazin.de/unternehmen/personalien/medi-asaturn-florian-gietl-wird-neuer-ceo-a-1240592.html (Zugriff: 2019-06-10)
+
 MediaMarktSaturn (2018): Mission Agilität: Über 90 Produktteams sind online (2018), https://www.mediamarktsaturn.com/unternehmen (Zugriff: 2019-06-10)
+
 Prof. Dr. Heinrich Holland (2018): Definition: Customer Experience Management (15.02.2018), https://wirtschaftslexikon.gabler.de/definition/customer-experi-ence-management-54478/version-277507 (Zugriff: 2019-05-30)
+
 SATURN Moments (2019): Saturn Moments Music (2019), https://www.sa-turn.de/de/shop/saturn-moments.html (Zugriff: 2019-04-28)
 Statista: Tabellen (Zugriff: 2019-06-10)
+
 – (2019): Themenseite: Elektrofachhandel in Deutschland (2019), https://de.sta-tista.com/themen/1646/elektrofachhandel-in-deutschland/ (Zugriff: 2019-06-10)
 
 [Impressum](/impressum)
+
 [Datenschutz](datenschutz)
