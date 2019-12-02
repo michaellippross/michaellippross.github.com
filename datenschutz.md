@@ -176,9 +176,13 @@ Welche Daten von Google erfasst werden und wofür diese Daten verwendet werden, 
 Quelle: Diese Datenschutzerklärung wurde mit dem Impressum Generator von AdSimple erstellt.
 
 Michael Lipproß
+
 Cologne Business School
+
 Hardefuststr. 1,
+
 50699 Köln,
+
 Deutschland
 
 [Home](/)
