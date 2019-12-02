@@ -72,7 +72,7 @@ Martin Mehringer (2018): MediaSaturn: Florian Gietl wird neuer CEO - manager mag
 
 MediaMarktSaturn (2018): Mission Agilität: Über 90 Produktteams sind online (2018), Hier finden Sie den [Link](https://www.mediamarktsaturn.com/unternehmen) (Zugriff: 2019-06-10)
 
-Prof. Dr. Heinrich Holland (2018): Definition: Customer Experience Management (15.02.2018), Hier finden Sie den [Link](https://wirtschaftslexikon.gabler.de/definition/customer-experi-ence-management-54478/version-277507) (Zugriff: 2019-05-30)
+Prof. Dr. Heinrich Holland (2018): Definition: Customer Experience Management (15.02.2018), Hier finden Sie den [Link](https://wirtschaftslexikon.gabler.de/definition/customer-experience-management-54478/version-277507) (Zugriff: 2019-05-30)
 
 SATURN Moments (2019): Saturn Moments Music (2019), Hier finden Sie den [Link](https://www.saturn.de/de/shop/saturn-moments.html) (Zugriff: 2019-04-28)
 Statista: Tabellen (Zugriff: 2019-06-10)
