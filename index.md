@@ -54,6 +54,20 @@ Doch kann man durch Event-Marketing letztendlich überhaupt das Einkaufserlebnis
 Marketingevents sind in der Regel erlebnisorientiert. Events bei Saturn oder in der Elektrofachmarktbranche interagieren immer oft mit den erlebnisorientierten und preispolitischen Ansätzen. Der Grund dafür ist, dass Events mit hoher Erlebnisorientierung höhere Einkaufsfreude für den Kunden bieten, aber nicht zwingend das Tagesgeschäft stärkt und dessen Umsätze steigert. Andersherum ist dies schon eher der Fall. Rein preisorientierte Events, wie zum Beispiel der Black Friday, an dessen Tag im gesamten deutschen Einzelhandel hohe Rabatte ausgegeben werden, steigern die Umsätze der Unternehmen stark. Allerdings haben diese Art von Events auch Nachteile. Sie müssen umgesetzt werden, weil ansonsten ein Unternehmen an Umsatz verliert und der Wettbewerb, welcher diese etablierten Jahresevents auf jeden Fall ausrichtet, den verlorenen Umsatz ansonsten zusätzlich erwirtschaftet. Es besteht also ein sogenannter „Gruppenzwang“. Allerdings erwirken wiederrum rein preispolitisch-orientierte Events keine Kundenbindung, da sie keine Alleinstellungsmerkmale aufbauen. Solche Events locken vor allem stark wechselwillige Kunden an, welche gegenüber Unternehmen nicht loyal bzw. treu sind. Oftmals werde diese Kunden als „Schnäppchenjäger“ oder „Smart Shopper“ deklariert.
 Um jeweils die Vorteile von erlebnisorientierten und preispolitisch-orientierten Events zu erhalten, muss ein Mittelweg gefunden. Hier gilt es für ein Unternehmen wie Saturn innovativ zu sein. Events, wie zum Beispiel die Saturn Card Days, könnten ein solcher innovative Mittelweg sein.
 
-Hier finden Sie die [Website Ulrich Anders](https://ulrich-anders.eu/).
+# Literaturverzeichnis
+
+Aktienkurs Ceconomy (2019) (2019), https://www.google.com/search?q=aktien-kurs+ceconomy&spell=1&sa=X&ved=0ahUKEwjvlM6kyt7iAhUTA2MBHYMn-CawQBQgrKAA&biw=1536&bih=754 (Zugriff: 2019-06-10)
+Ceconomy (2016): CECONOMY Geschichte (2016), https://www.ceco-nomy.de/de/unternehmen/geschichte/ (Zugriff: 2019-04-19)
+E-Commerce - Umsatz im stationären- vs. Online-Handel in Deutschland 2020 | Prognose (2014) (2014), https://de.statista.com/statistik/daten/stu-die/295622/umfrage/umsatzprognose-im-stationaeren-handel-vs-online-han-del-in-deutschland/ (Zugriff: 2019-06-10)
+Ferran Reverter Planet (2019): Brief von Ferran Reverter, Ingolstadt (Zugriff: 2019-06-10)
+HDE (2018): Zahlenspiegel 2018, in: Deutscher Handelsverband 2018, https://einzelhandel.de/index.php?option=com_attachments&task=down-load&id=9593 (Zugriff: 2019-06-10)
+Jäger, D. (2016): Grundwissen Eventmanagement, Konstanz/München, 2016
+Martin Mehringer (2018): MediaSaturn: Florian Gietl wird neuer CEO - manager magazin, https://www.manager-magazin.de/unternehmen/personalien/medi-asaturn-florian-gietl-wird-neuer-ceo-a-1240592.html (Zugriff: 2019-06-10)
+MediaMarktSaturn (2018): Mission Agilität: Über 90 Produktteams sind online (2018), https://www.mediamarktsaturn.com/unternehmen (Zugriff: 2019-06-10)
+Prof. Dr. Heinrich Holland (2018): Definition: Customer Experience Management (15.02.2018), https://wirtschaftslexikon.gabler.de/definition/customer-experi-ence-management-54478/version-277507 (Zugriff: 2019-05-30)
+SATURN Moments (2019): Saturn Moments Music (2019), https://www.sa-turn.de/de/shop/saturn-moments.html (Zugriff: 2019-04-28)
+Statista: Tabellen (Zugriff: 2019-06-10)
+– (2019): Themenseite: Elektrofachhandel in Deutschland (2019), https://de.sta-tista.com/themen/1646/elektrofachhandel-in-deutschland/ (Zugriff: 2019-06-10)
 
 [Impressum](/impressum)
+[Datenschutz](datenschutz)
